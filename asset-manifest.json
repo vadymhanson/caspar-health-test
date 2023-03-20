@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/capsar-health-test/static/css/main.08aabb56.css",
+    "main.js": "/capsar-health-test/static/js/main.c2ab9a86.js",
+    "static/js/787.ddc93855.chunk.js": "/capsar-health-test/static/js/787.ddc93855.chunk.js",
+    "index.html": "/capsar-health-test/index.html",
+    "main.08aabb56.css.map": "/capsar-health-test/static/css/main.08aabb56.css.map",
+    "main.c2ab9a86.js.map": "/capsar-health-test/static/js/main.c2ab9a86.js.map",
+    "787.ddc93855.chunk.js.map": "/capsar-health-test/static/js/787.ddc93855.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08aabb56.css",
+    "static/js/main.c2ab9a86.js"
+  ]
+}
